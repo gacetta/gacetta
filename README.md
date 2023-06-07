@@ -1,8 +1,10 @@
-![](https://github.com/gacetta/gacetta/assets/78240758/3bbbd934-6867-41bc-80e5-0807df1efd17)
+<!-- ![](https://github.com/gacetta/gacetta/assets/78240758/3bbbd934-6867-41bc-80e5-0807df1efd17) -->
+![](https://github.com/gacetta/banners/banner.png)
 
 <h2 align="center"> Hi there! 👋 I'm Michael </h2>
-<hr>
-<h3 align="center"> A passionate full-stack developer from the Pacific Northwest </h3>
+<h4 align="center"> A passionate full-stack developer from the Pacific Northwest </h4>
+
+- 
 
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
