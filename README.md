@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src=”https://github.com/gacetta/gacetta/assets/78240758/0c05bf67-7dc2-4df0-b886-7ac4eee3c379" alt=”my banner”>
+<img width="200" height="200" src=”https://github.com/gacetta/gacetta/assets/78240758/0c05bf67-7dc2-4df0-b886-7ac4eee3c379" alt=”my banner”>
 
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
