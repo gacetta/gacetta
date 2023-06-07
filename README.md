@@ -1,7 +1,6 @@
+![](https://github.com/gacetta/gacetta/assets/78240758/3bbbd934-6867-41bc-80e5-0807df1efd17)
 
-![](https://github.com/gacetta/gacetta/assets/78240758/0c05bf67-7dc2-4df0-b886-7ac4eee3c379)
-
-<img width="200" height="200" src=”https://github.com/gacetta/gacetta/assets/78240758/0c05bf67-7dc2-4df0-b886-7ac4eee3c379" alt=”my banner”>
+<h1 align="center"> A passionate full-stack developer from the Pacific Northwest </h1>
 
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
