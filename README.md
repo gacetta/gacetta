@@ -18,15 +18,15 @@
 ## 💼 Technical skills
 
 ## 🤝 Lets Connect!
-<a href='https://www.linkedin.com/in/gacetta/' target='_blank'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/> @Gacetta | LinkedIn
-</a><br>
+<a href='https://www.linkedin.com/in/gacetta/'>
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/> <h4>@Gacetta | LinkedIn</h4>
+</a><br><br>
 <a href='https://github.com/gacetta'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> @Gacetta | GitHub
-</a><br>
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> <h4>@Gacetta | GitHub</h4>
+</a><br><br>
 <a href='https://www.instagram.com/gacetta/'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> @Gacetta | Instagram
-</a><br>
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> <h4>@Gacetta | Instagram</h4>
+</a>
 
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
