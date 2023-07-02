@@ -19,13 +19,13 @@
 
 ## 🤝 Lets Connect!
 <a href='https://www.linkedin.com/in/gacetta/'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='21px'/> @Gacetta | LinkedIn
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/> @Gacetta | LinkedIn
 </a>
 <a href='https://github.com/gacetta'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='21px'/> @Gacetta | GitHub
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> @Gacetta | GitHub
 </a>
 <a href='https://www.instagram.com/gacetta/'>
-  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='21px'/> @Gacetta | Instagram
+  <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> @Gacetta | Instagram
 </a>
 
 <!--
