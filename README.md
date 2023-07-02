@@ -2,15 +2,24 @@
 ![](https://raw.githubusercontent.com/gacetta/gacetta/main/banners/banner.png)
 
 <h2 align="center"> Hi there! 👋 I'm <a href="https://www.linkedin.com/in/gacetta/">Michael</a></h2>
-<h4 align="center"> A tall, passionate front-end developer from the Pacific Northwest </h4>
+<h4 align="center"> A tall, passionate full-stack web developer from the Pacific Northwest </h4>
+<hr>
 
-<!-- ## 💻 I'm currently working on
+## 💻 I'm currently working on
+- Cleaning up this README
+- My old projects
+- Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
+- A personal portfolio site
 
 ## 🌱 I'm currently learning
+- TypeScript
+- Testing - React-Testing-Library
 
 ## 💼 Technical skills
 
-## 🤝 Lets Connect! -->
+## 🤝 Lets Connect!
+<a href=”https://www.linkedin.com/in/gacetta/"><img align=”left” src=”https://raw.githubusercontent.com/gacetta/main/images/images/linkedin-svgrepo-com.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
