@@ -18,7 +18,7 @@
 ## 💼 Technical skills
 
 ## 🤝 Lets Connect!
-<a href='https://www.linkedin.com/in/gacetta/'>
+<a href='https://www.linkedin.com/in/gacetta/' target='_blank'>
   <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/> @Gacetta | LinkedIn
 </a><br>
 <a href='https://github.com/gacetta'>
