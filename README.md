@@ -18,7 +18,8 @@
 ## 💼 Technical skills
 
 ## 🤝 Lets Connect!
-<a href=”https://www.linkedin.com/in/gacetta/"><img align=”left” src=”https://raw.githubusercontent.com/gacetta/main/images/linkedin-svgrepo-com.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/gacetta/"><img align=”left” src=”https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg" alt=”Michael Gacetta | LinkedIn” width=”21px”/></a>
+<a href=”https://github.com/gacetta"><img align=”left” src=”https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg" alt=”Michael Gacetta | GitHub” width=”21px”/></a>
 
 
 <!--
