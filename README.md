@@ -24,18 +24,12 @@
 
 <a href='https://www.linkedin.com/in/gacetta/'>
   <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/>
-  <br><br>
-  <b>@Gacetta | LinkedIn</b>
-</a><br>
+</a>
 <a href='https://github.com/gacetta'>
   <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/>
-  <br>
-  <b>@Gacetta | GitHub</b>
-</a><br>
+</a>
 <a href='https://www.instagram.com/gacetta/'>
   <img align=”left” src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> 
-  <br>
-  <b>@Gacetta | Instagram</b>
 </a>
 
 <!--
