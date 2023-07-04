@@ -13,6 +13,11 @@
 - Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
 - A personal portfolio site
 
+## 👨‍🏫 Recent Talks & Articles
+
+- I was invited to share my knowledge of [Microservices Architecture](https://www.linkedin.com/feed/update/urn:li:activity:7057007778195771392/) with fellow LA software engineers as part of the Jeeny + Bractlet Tech Talk Series
+- I co-authored a Medium article about an open source GraphQL dev tool, [The GraphQL One Stop Shop](https://medium.com/@cnbryan129/managing-a-complex-graphql-schema-head-on-down-to-the-one-stop-shop-6b27e1c0c82b)
+
 ## 🌱 I'm currently learning
 
 - TypeScript
@@ -40,15 +45,15 @@
 <br>
 <br>
 
-![Static Badge](https://img.shields.io/badge/Tools-npm-blue?style=flat&logo=npm&logoColor=%23CB3837&color=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=Git&logoColor=%23F05032&color=%23F05032)
-![Static Badge](https://img.shields.io/badge/Tools-Figma-blue?style=flat&logo=Figma&logoColor=%23F24E1E&color=%23F24E1E)
-![Static Badge](https://img.shields.io/badge/Tools-Postman-blue?style=flat&logo=Postman&logoColor=%23FF6C37&color=%23FF6C37)
-![Static Badge](https://img.shields.io/badge/Tools-Webpack-blue?style=flat&logo=Webpack&logoColor=%238DD6F9&color=%238DD6F9)
-![Static Badge](https://img.shields.io/badge/Tools-VS_Code-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=%23007ACC&color=%23007ACC)
-![Static Badge](https://img.shields.io/badge/Tools-Vite-blue?style=flat&logo=Vite&logoColor=%23646CFF&color=%23646CFF)
 ![Static Badge](https://img.shields.io/badge/Tools-GitHub-blue?style=flat&logo=GitHub&logoColor=%23181717&color=%23181717)
+![Static Badge](https://img.shields.io/badge/Tools-Figma-blue?style=flat&logo=Figma&logoColor=%23F24E1E&color=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/Tools-Webpack-blue?style=flat&logo=Webpack&logoColor=%238DD6F9&color=%238DD6F9)
+![Static Badge](https://img.shields.io/badge/Tools-Postman-blue?style=flat&logo=Postman&logoColor=%23FF6C37&color=%23FF6C37)
+![Static Badge](https://img.shields.io/badge/Tools-Vite-blue?style=flat&logo=Vite&logoColor=%23646CFF&color=%23646CFF)
+![Static Badge](https://img.shields.io/badge/Tools-npm-blue?style=flat&logo=npm&logoColor=%23CB3837&color=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/Tools-Vercel-blue?style=flat&logo=Vercel&logoColor=000000&color=000000)
+![Static Badge](https://img.shields.io/badge/Tools-VS_Code-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=%23007ACC&color=%23007ACC)
 <br>
 <br>
 
