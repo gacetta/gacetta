@@ -8,9 +8,8 @@
 
 ## 💻 I'm currently working on
 
-- Cleaning up this README
-- My old projects
 - Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
+- My old projects
 - A personal portfolio site
 
 ## 👨‍🏫 Recent Talks & Articles
