@@ -6,10 +6,25 @@
 <h4 align="center"> A tall, passionate full-stack web developer from the Pacific Northwest </h4>
 <hr>
 
+## 🤝 Connect with me:
+
+<a href='https://www.linkedin.com/in/gacetta/'>
+  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/>
+</a>
+
+<a href='https://github.com/gacetta'>
+  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> 
+</a>
+<a href='https://www.instagram.com/gacetta/'>
+  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> 
+</a>
+
+- 💬 If you have any questions / feedback, please reach out to me!
+
 ## 💻 I'm currently working on
 
 - Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
-- My old projects
+- Cleaning up old projects
 - A personal portfolio site
 
 ## 👨‍🏫 Recent Talks & Articles
@@ -60,18 +75,6 @@
 ![Static Badge](https://img.shields.io/badge/Testing-React_Testing_Library-blue?style=flat&logo=Testing%20Library&logoColor=%23E33332&color=%23E33332)
 ![Static Badge](https://img.shields.io/badge/Testing-Enzyme-blue?style=flat&logo=Airbnb&logoColor=%23FF5A5F&color=%23FF5A5F)
 
-## 🤝 Lets Connect!
-
-<a href='https://www.linkedin.com/in/gacetta/'>
-  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/>
-</a>
-
-<a href='https://github.com/gacetta'>
-  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> 
-</a>
-<a href='https://www.instagram.com/gacetta/'>
-  <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> 
-</a>
 <!--
 **gacetta/gacetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
