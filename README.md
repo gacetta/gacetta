@@ -2,20 +2,20 @@
 
 ![](https://raw.githubusercontent.com/gacetta/gacetta/main/banners/banner.png)
 
-<h2 align="center"> Hi there! 👋 I'm <a href="https://www.linkedin.com/in/gacetta/ target='_blank'">Michael</a></h2>
+<h2 align="center"> Hi there! 👋 I'm <a href="https://www.linkedin.com/in/gacetta/">Michael</a></h2>
 <h4 align="center"> A tall, passionate full-stack web developer from the Pacific Northwest </h4>
 <hr>
 
 ## 🤝 Connect with me:
 
-<a href='https://www.linkedin.com/in/gacetta/' target='_blank'>
+<a href='https://www.linkedin.com/in/gacetta/'>
   <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/linkedin-svgrepo-com.svg' alt='Michael Gacetta | LinkedIn' width='42px'/>
 </a>
 
 <a href='https://github.com/gacetta' target='_blank'>
   <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/github-142-svgrepo-com.svg' alt='Michael Gacetta | GitHub' width='42px'/> 
 </a>
-<a href='https://www.instagram.com/gacetta/' target='_blank'>
+<a href='https://www.instagram.com/gacetta/'>
   <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> 
 </a>
 
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-- 💬 If you have any questions, feedback, or have a good joke you want to share, please don't hesitate to <a href='mailto:michael.gacetta@gmail.com' target='_blank'>reach out to me.</a>
+- 💬 If you have any questions, feedback, or have a good joke you want to share, please don't hesitate to [reach out.](mailto:michael.gacetta@gmail.com)
 
 ## 💻 I'm currently working on
 
