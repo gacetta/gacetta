@@ -19,6 +19,9 @@
   <img align='left' src='https://raw.githubusercontent.com/gacetta/gacetta/main/images/instagram-svgrepo-com.svg' alt='Michael Gacetta | Instagram' width='42px'/> 
 </a>
 
+<br>
+<br>
+
 - 💬 If you have any questions / feedback, please reach out to me!
 
 ## 💻 I'm currently working on
