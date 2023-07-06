@@ -23,7 +23,7 @@
 <br>
 <br>
 
-- 💬 If you have any questions / feedback, please reach out to me!
+- 💬 If you have any questions, feedback, or have a good joke you want to share, please don't hesitate to [reach out to me](mailto:michael.gacetta@gmail.com)
 
 ## 💻 I'm currently working on
 
