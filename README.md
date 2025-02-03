@@ -30,16 +30,16 @@
 - Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
 - Learning backend languages / concepts
 
-## 👨‍🏫 Recent Talks & Articles
-
-- I was invited to share my knowledge of [Microservices Architecture](https://www.linkedin.com/feed/update/urn:li:activity:7057007778195771392/) with fellow LA software engineers as part of the Jeeny + Bractlet Tech Talk Series
-- I co-authored a Medium article about an open source GraphQL dev tool, [The GraphQL One Stop Shop](https://medium.com/@cnbryan129/managing-a-complex-graphql-schema-head-on-down-to-the-one-stop-shop-6b27e1c0c82b)
-
 ## 🌱 I'm currently learning
 
 - Python
 - TypeScript
 - Testing: React-Testing-Library
+
+## 👨‍🏫 Recent Talks & Articles
+
+- I was invited to share my knowledge of [Microservices Architecture](https://www.linkedin.com/feed/update/urn:li:activity:7057007778195771392/) with fellow LA software engineers as part of the Jeeny + Bractlet Tech Talk Series
+- I co-authored a Medium article about an open source GraphQL dev tool, [The GraphQL One Stop Shop](https://medium.com/@cnbryan129/managing-a-complex-graphql-schema-head-on-down-to-the-one-stop-shop-6b27e1c0c82b)
 
 ## 💼 Technical skills
 
