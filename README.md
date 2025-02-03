@@ -54,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/Code-React_Router-blue?style=flat&logo=React%20Router&logoColor=%23CA4245&color=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/Code-PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=%2360A5FA&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/Code-MongoDB-blue?style=flat&logo=MongoDB&logoColor=%2347A248&color=%2347A248)
+![Static Badge](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=%233776AB&color=%233776AB)
 <br>
 <br>
 
