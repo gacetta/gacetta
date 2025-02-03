@@ -28,8 +28,7 @@
 ## 💻 I'm currently working on
 
 - Open source contributions to [RISE Theatre](https://www.risetheatre.org/)
-- Cleaning up old projects
-- A personal portfolio site
+- Learning backend languages / concepts
 
 ## 👨‍🏫 Recent Talks & Articles
 
@@ -38,6 +37,7 @@
 
 ## 🌱 I'm currently learning
 
+- Python
 - TypeScript
 - Testing: React-Testing-Library
 
